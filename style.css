@@ -295,3 +295,31 @@ nav{
     cursor: pointer;
     display: block;
 }
+
+.bloc-right{
+    right : -300px;
+}
+
+.img-grid-2{
+    top: 130px;
+    left: 100px;
+}
+
+.bloc-txt-right{
+    position: absolute;
+    right: 0;
+    width: 50%;
+    height: 100%;
+}
+
+.bloc-txt-right h3{
+    position:relative;
+    font-size: 35px;
+    margin : 30px 15px;
+}
+
+.bloc-txt-right p{
+    line-height: 40px;
+    padding: 15px;
+}
+
